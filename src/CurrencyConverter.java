@@ -4,7 +4,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-public class GFG {
+public class CurrencyConverter {
 
     // Function to convert from tenge
     // to the dollar and vice-versa
